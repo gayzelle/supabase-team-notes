@@ -1,4 +1,5 @@
 Supabase Team Notes (Multi-tenant demo)
+
 A tiny app to exercise Supabase end-to-end and demonstrate a multi-tenant pattern with Row Level Security (RLS).
 
 What this showcases
