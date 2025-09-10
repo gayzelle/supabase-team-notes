@@ -18,7 +18,8 @@ Supabase: Postgres, Auth, Realtime, Storage, Edge Functions
 Supabase CLI for local dev (Docker)
 Quickstart (local)
 
-Prereqs: Docker Desktop running, Node 18+, Supabase CLI
+Prereqs: 
+Docker Desktop running, Node 18+, Supabase CLI
 Start services:
 supabase start
 Apply DB schema/policies:
